@@ -1,57 +1,29 @@
-<p align="center">
-  <a href="https://github.com/nfcurrency">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=8ab0e5&fontSize=54&height=90&width=420&text=Oi%2C%20I%20am" alt="Oi, I am" />
-  </a>
-</p>
+Hi 👋 My name is ɴʏᴀɴɢᴇ
+=======================
 
-### 🚀 About Me
+ꜰɪɢᴜʀᴇ ᴏᴜᴛ ᴇɴɢɪɴᴇᴇʀ
+-------------------
 
-ɪ ᴅᴏɴ'ᴛ ʜᴀᴠᴇ ᴀ ᴄʟᴜᴇ ᴡʜᴀᴛ ᴀʟʟ ᴛʜɪꜱ ɪꜱ ʏᴇᴛ. ʙᴜᴛ ɪ ᴘʀᴏᴍɪꜱᴇ, ɪ ᴡɪʟʟ ꜰɪɢᴜʀᴇ ɪᴛ ᴏᴜᴛ
-
-🌱 &nbsp;I'm currently learning **"what all this is."**  
-💬 &nbsp;Ask me about **Christ**  
-😄 &nbsp;Pronouns: **Christian**  
-⚡ &nbsp;Fun fact: **I know a g@y engineer**
-
-### 🛠️ Tech Stack
+ꜱᴏʟᴠɪɴɢ ᴍʏ ꜰʀɪᴇɴᴅ'ꜱ ᴘʀᴏʙʟᴇᴍ. ɪꜰ ʏᴏᴜ ʜᴀᴠᴇ ᴛʜᴇ ꜱᴀᴍᴇ ᴘʀᴏʙʟᴇᴍ, ʟᴇᴛꜱ ʙᴇ ꜰʀɪᴇɴᴅꜱ ✌︎㋡
 
 <p align="left">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=black" alt="Supabase" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" alt="TypeScript" title="TypeScript" width="36" height="36" /></a><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" alt="C" title="C" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" title="JavaScript" width="36" height="36" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="36" height="36" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" alt="React" title="React" width="36" height="36" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" alt="NodeJS" title="NodeJS" width="36" height="36" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" alt="Figma" title="Figma" width="36" height="36" /></a><a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored-dark.svg" alt="Photoshop" title="Photoshop" width="36" height="36" /></a>
 </p>
 
-### 🔗 Connect With Me
+### Socials
 
-<p align="left">
-  <a href="https://x.com/nifdahq" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
-</p>
+<p align="left"> <a href="https://www.github.com/nfcurrency" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.x.com/nifdahq" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" alt="Twitter" title="Twitter" /> </picture> </a></p>
+### Badges
 
-### 📊 GitHub Stats
+<b>My GitHub Stats</b>
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=nfcurrency&show_icons=true&theme=tokyonight&title_color=8ab0e5&icon_color=8ab0e5&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=nfcurrency&layout=compact&theme=tokyonight&title_color=8ab0e5&icon_color=8ab0e5&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
-</p>
+<a href="http://www.github.com/nfcurrency"><img src="https://github-readme-stats.vercel.app/api?username=nfcurrency&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=22c55e&bg_color=713f12&hide_border=true&show_icons=true" alt="nfcurrency's GitHub stats" /></a>
 
-### 📈 Contribution Graph
+<a href="http://www.github.com/nfcurrency"><img src="https://github-readme-streak-stats.herokuapp.com/?user=nfcurrency&stroke=ffffff&background=713f12&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=nfcurrency&bg_color=00000000&color=8ab0e5&line=8ab0e5&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
-</p>
+<a href="https://github.com/nfcurrency" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nfcurrency&langs_count=10&title_color=ffffff&text_color=ffffff&icon_color=22c55e&bg_color=713f12&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
----
-<p align="center"><i>⭐️ From <a href="https://github.com/nfcurrency">nfcurrency</a></i></p>
+<b>Top Repositories</b>
+
+<div width="100%" align="center"><a href="https://github.com/nfcurrency/NIFDA_AI" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=nfcurrency&repo=NIFDA_AI&title_color=ffffff&text_color=ffffff&icon_color=22c55e&bg_color=713f12&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+
